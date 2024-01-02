@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gigglemug27&label=Profile%20views&color=0e75b6&style=flat" alt="gigglemug27" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gigglemug27" alt="gigglemug27" /></a> </p>
-
 - 🔭 I’m currently working on [React Basics](https://github.com/gigglemug27/RestaurantWebsite)
 
 - 🌱 I’m currently learning **ReactJs and NodeJs**
@@ -16,8 +14,6 @@
 - 💬 Ask me about **C#, JavaScript Web Development: ASP.NET, MVC, HTML, CSS Database: SQL Server, Database Design Frontend: React.js, JavaScript, HTML, CSS, AI: ChatGPT, OpenAI Integration**
 
 - 📫 How to reach me **panhale.anu27@gmail.com**
-
-- 📄 Know about my experiences [file:///C:/Users/Anushree.Panhale/Downloads/Resume-Anushree.pdf](file:///C:/Users/Anushree.Panhale/Downloads/Resume-Anushree.pdf)
 
 - ⚡ Fun fact **I am an overthinker...**
 
