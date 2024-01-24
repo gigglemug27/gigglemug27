@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on React Basics<br><br>🌱 I’m currently learning ReactJs and NodeJs<br><br>👨‍💻 All of my projects are available at https://github.com/gigglemug27/<br><br>📝 I regularly write articles on https://medium.com/@ink-with-anu<br><br>💬 Ask me about C#, JavaScript Web Development: ASP.NET, MVC, HTML, CSS Database: SQL Server, Database Design Frontend: React.js, JavaScript, HTML, CSS, AI: ChatGPT, OpenAI Integration<br><br>📫 How to reach me panhale.anu27@gmail.com<br><br>⚡ Fun fact I am an overthinker...
+🔭 I’m currently working on MERN<br><br>🌱 I’m currently learning Tailwind CSS<br><br>👨‍💻 All of my projects are available at https://github.com/gigglemug27/<br><br>📝 I regularly write articles on https://medium.com/@ink-with-anu<br><br>💬 Ask me about C#, JavaScript Web Development: ASP.NET, MVC, HTML, CSS Database: SQL Server, Database Design Frontend: React.js, JavaScript, HTML, CSS, AI: ChatGPT, OpenAI Integration<br><br>📫 How to reach me panhale.anu27@gmail.com<br><br>⚡ Fun fact I am an overthinker...
 
 
 ## 🌐 Socials:
